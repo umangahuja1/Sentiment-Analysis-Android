@@ -24,6 +24,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Find Sentiment"
+            android:background="@color/colorAccent"
+            android:textColor="#fff"
+            android:padding="10dp"
             android:layout_marginBottom="16dp"/>
 
         <LinearLayout
